@@ -6,4 +6,4 @@ def comma_code(argList):
 
     string = string + 'and ' + argList[i+1]
 
-    print(string)
+    return string
